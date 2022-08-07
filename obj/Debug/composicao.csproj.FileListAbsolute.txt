@@ -1,0 +1,7 @@
+C:\Users\Diogo Henrique\source\repos\composicao\bin\Debug\composicao.exe.config
+C:\Users\Diogo Henrique\source\repos\composicao\bin\Debug\composicao.exe
+C:\Users\Diogo Henrique\source\repos\composicao\bin\Debug\composicao.pdb
+C:\Users\Diogo Henrique\source\repos\composicao\obj\Debug\composicao.csproj.AssemblyReference.cache
+C:\Users\Diogo Henrique\source\repos\composicao\obj\Debug\composicao.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Henrique\source\repos\composicao\obj\Debug\composicao.exe
+C:\Users\Diogo Henrique\source\repos\composicao\obj\Debug\composicao.pdb
